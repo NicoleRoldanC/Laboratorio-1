@@ -4,10 +4,18 @@
  */
 package laboratorio1;
 
-/**
- *
- * @author nicol
- */
+/*
+Autores: -Nicole Roldan (2355039)
+         -Kevin Lopez (2355192)
+Fecha: 2/09/20224
+Version: 1
+
+Laboratorio 1 – Clase ArrayList
+
+Implementar una aplicación que permita almacenar en un ArrayList los datos de cualquier entidad (persona, cosa, lugar,
+…., etc).
+
+*/
 public class Laboratorio1 {
 
     /**
